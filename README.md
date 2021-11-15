@@ -1,6 +1,6 @@
 
 ## I want to help anyone who wants to improve his/her selenium skills. 
-##This project aims to cover all nicely thought practices on https://demoqa.com
+## This project aims to cover all nicely thought practices on https://demoqa.com
 
 ## Used : 
 
