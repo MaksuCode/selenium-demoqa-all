@@ -21,14 +21,14 @@ public class BaseTest {
         driver.manage().window().maximize();
     }
 
-//    @AfterEach
-//    public void afterMethod(){
-//        driver.close();
-//    }
-//
-//    @AfterAll
-//    public static void tearDown(){
-//        driver.quit();
-//    }
+    @AfterEach
+    public void afterMethod(){
+        driver.close();
+    }
+
+    @AfterAll
+    public static void tearDown(){
+        driver.quit();
+    }
 
 }
